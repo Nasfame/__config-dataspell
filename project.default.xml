@@ -1,0 +1,33 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectView">
+        <navigator proportions="" version="1" />
+        <panes />
+      </component>
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "NIXITCH_NIXPKGS_CONFIG": "",
+    "NIXITCH_NIX_CONF_DIR": "",
+    "NIXITCH_NIX_OTHER_STORES": "",
+    "NIXITCH_NIX_PATH": "",
+    "NIXITCH_NIX_PROFILES": "",
+    "NIXITCH_NIX_REMOTE": "",
+    "NIXITCH_NIX_USER_PROFILE_DIR": "",
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="349" y="97" key="SettingsEditor" timestamp="1684406067610">
+          <screen x="0" y="25" width="1680" height="960" />
+        </state>
+        <state x="349" y="97" key="SettingsEditor/0.25.1680.960" timestamp="1684406067610" />
+        <state x="349" y="97" key="SettingsEditor/0.25.1680.964" timestamp="1684405975938" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

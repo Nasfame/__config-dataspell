@@ -1,9 +1,7 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="SyncSettings">
-        <abbreviation name="sync" />
-      </action>
+      <action id="GotoBookmarkA" />
     </abbreviations>
   </component>
 </application>

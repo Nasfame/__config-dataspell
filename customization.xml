@@ -1,0 +1,91 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="EditorToggleColumnMode" is_action="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Edit" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FindMenuGroup" is_group="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Edit" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditCreateDeleteGroup" is_group="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Edit" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FindUsagesInFile" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Edit" />
+      <path value="Find Usages" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowUsages" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Edit" />
+      <path value="Find Usages" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$Redo" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Edit" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$Copy" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Edit" />
+      <path value="Cut/Copy/Paste Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowSettingsAndFindUsages" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Edit" />
+      <path value="Find Usages" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$Undo" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Edit" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$Cut" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Edit" />
+      <path value="Cut/Copy/Paste Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$Paste" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Edit" />
+      <path value="Cut/Copy/Paste Actions" />
+      <path value="Paste" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FindUsages" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Edit" />
+      <path value="Find Usages" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FindUsages" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Edit" />
+      <path value="Find Usages" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
