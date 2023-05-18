@@ -1,7 +1,4 @@
 <application>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="0" />
-  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
@@ -20,10 +17,6 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
